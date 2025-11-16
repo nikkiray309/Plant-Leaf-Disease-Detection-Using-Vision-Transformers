@@ -1,0 +1,546 @@
+{
+    "Apple_Black_rot": {
+         "disease": "Apple Black rot",
+            "description": "Apple Black Rot is a fungal disease caused by Botryosphaeria obtusa. It commonly affects apple trees, causing cankers on branches, leaf spots, and rotting fruit. Infected fruits develop concentric rings and eventually mummify on the tree. Proper sanitation and fungicide use are critical for management.",
+            "suggestions": [
+              "Consult an expert or agronomist.",
+              "Apply appropriate fungicide or pesticide if symptoms persist.",
+              "Ensure good watering, soil, and air circulation practices.",
+              "Remove infected fruits and prune affected branches.",
+              "Avoid wounding trees during pruning or maintenance.",
+              "Clean up leaf litter and debris around the tree base.",
+              "Monitor trees regularly, especially in humid weather."
+            ],
+            "treatments": [
+              "Use fungicides such as captan or myclobutanil during early fruit development.",
+              "Apply copper-based sprays during dormancy to reduce spore presence.",
+              "Prune infected branches during dry weather and dispose of them away from the orchard.",
+              "Improve air circulation by proper tree spacing and pruning.",
+              "Adopt an integrated disease management program combining chemical and cultural practices."
+            ],
+            "precautions": [
+              "Avoid cross-contamination between plants.",
+              "Monitor regularly for symptoms.",
+              "Maintain optimal environmental conditions.",
+              "Disinfect pruning tools between cuts.",
+              "Avoid overhead irrigation to reduce leaf wetness."
+            ]     
+    },
+    "Apple_Cedar_apple_rust": {
+        "disease": "Apple Cedar apple rust",
+        "description": "Cedar Apple Rust is a fungal disease caused by *Gymnosporangium juniperi-virginianae*. It affects apple and crabapple trees, creating bright orange spots on leaves and fruit. The fungus requires both apple and cedar/juniper trees to complete its lifecycle.",
+        "suggestions": [
+          "Remove nearby juniper or cedar hosts if possible.",
+          "Prune and dispose of infected leaves and branches promptly.",
+          "Use resistant apple varieties to minimize susceptibility.",
+          "Apply fungicide during early spring, especially at bud break.",
+          "Monitor for orange lesions or galls during the growing season.",
+          "Maintain good airflow through pruning to reduce humidity."
+        ],
+        "treatments": [
+          "Spray preventive fungicides like myclobutanil or mancozeb early in the season.",
+          "Repeat fungicide applications every 7-10 days during critical infection periods.",
+          "Remove and destroy galls from cedar trees during winter.",
+          "Use horticultural oil sprays on cedar trees to limit gall development.",
+          "Consult an arborist if infections are severe or recurring."
+        ],
+        "precautions": [
+          "Avoid planting apple trees near juniper species.",
+          "Inspect both host types (apple and cedar) regularly.",
+          "Practice good garden hygiene and tool sanitation.",
+          "Choose disease-resistant cultivars when planting new trees."
+        ]
+      },
+    "Blueberry__Blueberry_mosaic_virus":
+      {
+        "disease": "Blueberry Blueberry mosaic virus",
+        "description": "Blueberry mosaic virus is a viral disease that causes mottled leaves, stunted growth, and reduced fruit quality in blueberry plants. It is transmitted by aphids and can lead to significant yield loss.",
+        "suggestions": [
+          "Remove and destroy infected plants to prevent spread.",
+          "Control aphid populations with insecticidal soap or neem oil.",
+            "Plant resistant blueberry varieties when available.",
+            "Monitor for aphid activity and apply insecticides  if necessary.",
+            "Practice good sanitation by cleaning tools and equipment.",
+            "Avoid planting blueberries near wild hosts that may harbor the virus."
+        ],
+        "treatments": [
+          "There is no cure for viral infections; focus on prevention.",
+          "Use insecticides to control aphids and reduce virus spread.",
+          "Consider using reflective mulches to deter aphid vectors.",
+          "Regularly scout for symptoms and manage aphid populations."
+        ],
+        "precautions": [
+          "Avoid planting in areas with high aphid populations.",
+          "Monitor for symptoms regularly, especially in spring.",
+          "Sanitize tools and equipment to prevent cross-contamination.",
+          "Educate workers on identifying and reporting symptoms."
+        ]
+        },
+   
+    "Apple__Apple_scab":{
+  "disease": "Apple Apple scab",
+  "description": "Apple Scab is a common fungal disease caused by *Venturia inaequalis*, which causes olive-green to black spots on leaves and fruit. It can lead to fruit deformity and premature leaf drop.",
+  "suggestions": [
+    "Rake and destroy fallen leaves in autumn to reduce overwintering spores.",
+    "Thin trees to improve air circulation.",
+    "Use scab-resistant apple cultivars whenever possible.",
+    "Apply fungicides at green tip and continue through petal fall.",
+    "Avoid overhead watering that keeps foliage wet."
+  ],
+  "treatments": [
+    "Spray protective fungicides like captan, sulfur, or dodine in early spring.",
+    "Use systemic fungicides such as myclobutanil if infection is established.",
+    "Repeat treatments every 7–14 days depending on rainfall.",
+    "Remove infected leaves and fruits during the growing season."
+  ],
+  "precautions": [
+    "Monitor trees closely during wet spring weather.",
+    "Remove mummified fruits from branches in winter.",
+    "Clean up leaf litter before winter to prevent overwintering of spores.",
+    "Maintain a regular pruning schedule to reduce canopy density."
+  ]
+}
+,
+    "Apple__healthy": {
+        "disease": "Apple healthy",
+        "description": "This apple plant shows no visible signs of disease or damage and is considered healthy. Maintaining its condition requires ongoing good practices.",
+        "suggestions": [
+          "Continue with regular watering and feeding schedules.",
+          "Inspect regularly for any signs of pests or diseases.",
+          "Mulch around the base to retain moisture and reduce weed growth.",
+          "Fertilize in early spring and mid-summer with a balanced formula.",
+          "Practice routine pruning to encourage strong structure."
+        ],
+        "treatments": [
+          "No treatment needed—maintain healthy practices.",
+          "Use preventive organic sprays such as neem oil if risk factors increase.",
+          "Boost immunity with compost tea or natural foliar feeds.",
+          "Apply dormant oil spray in winter to reduce pest eggs."
+        ],
+        "precautions": [
+          "Avoid overwatering or waterlogging the soil.",
+          "Keep area around base clear of weeds and debris.",
+          "Regularly disinfect tools between uses.",
+          "Monitor environmental conditions for any stress signs."
+        ]
+      },
+
+    "Blueberry__healthy": {
+  "disease": "Blueberry healthy",
+  "description": "This blueberry plant is currently in good health with no symptoms of disease or stress. Continued monitoring and best cultural practices can help maintain this condition.",
+  "suggestions": [
+    "Maintain acidic soil pH (4.5–5.5) suitable for blueberries.",
+    "Provide consistent watering, especially during flowering and fruiting.",
+    "Mulch with pine bark or needles to retain moisture and reduce weeds.",
+    "Use netting to protect fruit from birds.",
+    "Prune annually to remove old wood and encourage new growth."
+  ],
+  "treatments": [
+    "No treatment required—monitor and maintain optimal conditions.",
+    "Consider foliar feeding with micronutrients during growth spurts.",
+    "Apply compost or organic matter in early spring.",
+    "Inspect roots if signs of chlorosis appear to rule out deficiencies."
+  ],
+  "precautions": [
+    "Avoid using alkaline fertilizers.",
+    "Do not over-fertilize; blueberries are sensitive to salt buildup.",
+    "Keep foliage dry to reduce risk of fungal infections.",
+    "Use proper spacing to ensure good airflow."
+  ]
+},
+    "Cherry(including_sour)__Powdery_mildew": {
+        "disease": "Cherry Powdery mildew",
+        "description": "Powdery mildew is a fungal disease that affects cherry trees, appearing as a white or grayish powder on leaves, buds, and young shoots. It can lead to reduced fruit quality and stunted growth if not managed early.",
+        "suggestions": [
+          "Remove and destroy infected leaves and twigs during pruning.",
+          "Promote good air circulation by proper spacing and pruning.",
+          "Avoid overhead irrigation to keep foliage dry.",
+          "Use resistant cherry varieties if available.",
+          "Apply preventive sprays during periods of high humidity."
+        ],
+        "treatments": [
+          "Apply sulfur-based or potassium bicarbonate fungicides early in the season.",
+          "Use neem oil or horticultural oil to manage light infections.",
+          "Repeat applications every 10–14 days during active growth.",
+          "Consider biological control agents like Bacillus subtilis for organic management."
+        ],
+        "precautions": [
+          "Avoid nitrogen-heavy fertilization, which promotes tender susceptible growth.",
+          "Monitor trees regularly, especially during warm, dry conditions.",
+          "Sanitize tools used on infected plants.",
+          "Ensure trees are well pruned and not overcrowded."
+        ]
+      },
+    "Cherry(including_sour)___healthy": {
+        "disease": "Cherry healthy",
+        "description": "This cherry tree appears healthy with no visible signs of disease or pest infestation. Continued monitoring and proper care are key to sustaining its health.",
+        "suggestions": [
+          "Prune annually to remove dead wood and maintain structure.",
+          "Water deeply but infrequently to encourage deep root growth.",
+          "Apply mulch around the base to conserve moisture and regulate soil temperature.",
+          "Use balanced fertilizer in spring before flowering begins.",
+          "Check regularly for early signs of disease or insect activity."
+        ],
+        "treatments": [
+          "No immediate treatment necessary—focus on preventive care.",
+          "Apply dormant oil spray in late winter to eliminate overwintering pests.",
+          "Supplement with micronutrients if foliage shows signs of stress.",
+          "Use organic compost to maintain soil fertility."
+        ],
+        "precautions": [
+          "Do not overwater—cherries dislike soggy soil.",
+          "Avoid injuries to the trunk and branches.",
+          "Ensure proper spacing between trees for good airflow.",
+          "Protect bark from sunscald in winter using tree wraps if needed."
+        ]
+      },
+    "Corn(maize)__Common_rust": {
+        "disease": "Corn Common rust",
+        "description": "Common rust in corn is caused by the fungus *Puccinia sorghi*. It appears as reddish-brown pustules on both sides of the leaves and can reduce photosynthetic capacity and yield if severe.",
+        "suggestions": [
+          "Use resistant hybrids to minimize risk.",
+          "Plant early to escape peak infection periods.",
+          "Scout fields regularly during warm, moist weather.",
+          "Maintain field sanitation by removing crop debris post-harvest.",
+          "Promote airflow by avoiding overly dense planting."
+        ],
+        "treatments": [
+          "Apply foliar fungicides like azoxystrobin or pyraclostrobin when rust is detected early.",
+          "Repeat treatments if weather conditions favor disease development.",
+          "Use combination fungicides with both protective and curative action.",
+          "Consult local extension services for regional recommendations."
+        ],
+        "precautions": [
+          "Avoid late-season irrigation if disease pressure is high.",
+          "Rotate crops with non-host species.",
+          "Avoid excessive nitrogen fertilization.",
+          "Clean equipment to prevent spore transfer between fields."
+        ]
+      },
+    "Corn(maize)__healthy": {
+        "disease": "Corn(maize) healthy",
+        "description": "Description not yet available.",
+        "suggestions": [
+            "Consult an expert or agronomist.",
+            "Apply appropriate fungicide or pesticide if symptoms persist.",
+            "Ensure good watering, soil, and air circulation practices."
+        ],
+        "precautions": [
+            "Avoid cross-contamination between plants.",
+            "Monitor regularly for symptoms.",
+            "Maintain optimal environmental conditions."
+        ]
+    },
+    "Corn_(maize)__Cercospora_leaf_spot Gray_leaf_spot": {
+        "disease": "Corn (maize) Cercospora leaf spot Gray leaf spot",
+        "description": "Description not yet available.",
+        "suggestions": [
+            "Consult an expert or agronomist.",
+            "Apply appropriate fungicide or pesticide if symptoms persist.",
+            "Ensure good watering, soil, and air circulation practices."
+        ],
+        "precautions": [
+            "Avoid cross-contamination between plants.",
+            "Monitor regularly for symptoms.",
+            "Maintain optimal environmental conditions."
+        ]
+    },
+    "Corn_(maize)__Northern_Leaf_Blight": {
+        "disease": "Corn Northern Leaf Blight",
+        "description": "Northern Leaf Blight is a major foliar disease in corn caused by *Exserohilum turcicum*. It appears as long, cigar-shaped gray or tan lesions and can lead to significant yield loss in susceptible hybrids.",
+        "suggestions": [
+          "Select hybrids with resistance to the disease.",
+          "Rotate with non-host crops such as soybeans or legumes.",
+          "Scout early, especially under humid conditions.",
+          "Avoid excessive irrigation and plant with good spacing.",
+          "Use tillage to bury infected crop residue and reduce spore carryover."
+        ],
+        "treatments": [
+          "Apply fungicides like propiconazole or trifloxystrobin during early lesion appearance.",
+          "Repeat applications as needed based on disease progression.",
+          "Use aerial spraying for large fields if necessary.",
+          "Combine fungicide use with cultural practices for best results."
+        ],
+        "precautions": [
+          "Monitor fields after tasseling when the plant is most susceptible.",
+          "Avoid continuous corn planting on the same field.",
+          "Keep records of field infection history to guide future planting decisions.",
+          "Inspect lower leaves where lesions typically appear first."
+        ]
+      },
+    "Grape__Black_rot": {
+        "disease": "Grape Black rot",
+        "description": "Black Rot is a serious fungal disease of grapevines caused by *Guignardia bidwellii*. It affects leaves, shoots, and especially the fruit, which shrivels and turns into hard, black mummies if untreated. Warm, wet weather promotes its spread.",
+        "suggestions": [
+          "Remove and destroy all mummified grapes and infected plant debris from the vineyard.",
+          "Prune and dispose of infected canes during dormancy.",
+          "Ensure proper air circulation by training vines and controlling weeds.",
+          "Apply protective fungicides during the growing season, especially after rain.",
+          "Plant resistant varieties when possible."
+        ],
+        "treatments": [
+          "Spray with fungicides like mancozeb, myclobutanil, or captan starting from early shoot growth.",
+          "Reapply fungicides every 7–14 days, particularly after wet conditions.",
+          "Use integrated pest and disease management strategies for long-term control.",
+          "In severe cases, apply systemic fungicides to reduce internal infections."
+        ],
+        "precautions": [
+          "Avoid overhead irrigation to reduce humidity around foliage.",
+          "Sanitize pruning tools between cuts to prevent spreading spores.",
+          "Train vines on trellises to keep fruit off the ground and exposed to sunlight.",
+          "Scout regularly during humid periods, especially in spring and early summer."
+        ]
+      },
+    "Grape__Esca(Black_Measles)": {
+        "disease": "Grape Esca (Black Measles)",
+        "description": "Esca, also known as Black Measles, is a complex fungal disease that affects grapevines, caused by a mix of fungi such as *Phaeomoniella chlamydospora*. It causes dark spots on leaves and berries, wood decay, and can lead to vine decline or sudden dieback.",
+        "suggestions": [
+          "Avoid pruning during wet conditions to reduce infection risk.",
+          "Use clean, disinfected pruning tools.",
+          "Train and prune vines to minimize wounding and promote vine strength.",
+          "Remove and burn severely affected vines to reduce the spread.",
+          "Plant certified, disease-free stock."
+        ],
+        "treatments": [
+          "No chemical treatment is fully effective; focus on preventive measures.",
+          "Apply protective wound treatments after pruning.",
+          "Consider biological control options like *Trichoderma* spp. to protect pruning wounds.",
+          "Use trunk renewal techniques to manage infection in older vines."
+        ],
+        "precautions": [
+          "Monitor for tiger-stripe leaf patterns and shriveled berries.",
+          "Avoid reusing tools from infected vineyards without sanitization.",
+          "Limit nitrogen fertilizer as it may increase disease susceptibility.",
+          "Consult viticulture experts for long-term vine health planning."
+        ]
+      },
+    "Grape__Leaf_blight(Isariopsis_Leaf_Spot)": {
+        "disease": "Grape Leaf blight (Isariopsis Leaf Spot)",
+        "description": "Leaf Blight caused by *Isariopsis clavispora* appears as angular, dark brown to black leaf spots which may lead to defoliation in grapevines. It weakens the plant and reduces fruit quality.",
+        "suggestions": [
+          "Remove infected leaves and canes at the end of the season.",
+          "Improve air circulation by proper vine training and pruning.",
+          "Avoid overhead watering that can increase leaf wetness.",
+          "Use mulch to prevent splash dispersal of spores from soil.",
+          "Implement crop rotation if growing table grapes in a garden setting."
+        ],
+        "treatments": [
+          "Apply contact fungicides such as chlorothalonil or copper-based formulations.",
+          "Begin treatment early in the season and continue at 10-day intervals during wet periods.",
+          "Combine fungicide application with cultural practices for best results.",
+          "Use baking soda sprays as a mild organic deterrent for leaf spots."
+        ],
+        "precautions": [
+          "Inspect leaves regularly for early signs of infection.",
+          "Dispose of pruned material away from the vineyard.",
+          "Disinfect all tools before and after working on vines.",
+          "Train and space vines to reduce humidity within the canopy."
+        ]
+      },
+    "Grape___healthy": {
+        "disease": "Grape healthy",
+        "description": "This grapevine is in healthy condition, showing no signs of disease or pest infestation. Maintaining current cultural practices will help preserve its health throughout the growing season.",
+        "suggestions": [
+          "Continue regular pruning to maintain vine shape and airflow.",
+          "Water consistently and deeply during dry periods.",
+          "Apply balanced fertilizer during early spring and post-harvest.",
+          "Mulch around the base to reduce weeds and retain soil moisture.",
+          "Train vines properly on trellises for light exposure and ease of harvesting."
+        ],
+        "treatments": [
+          "No treatment is necessary for healthy plants.",
+          "Consider preventative fungicide applications if disease risk is high.",
+          "Boost vine vigor with compost tea or foliar feeding in early growth stages.",
+          "Inspect vines after heavy rains for early signs of disease."
+        ],
+        "precautions": [
+          "Avoid overwatering, especially in poorly drained soil.",
+          "Monitor regularly for any sudden changes in leaf color or growth patterns.",
+          "Protect new growth from late spring frosts if applicable.",
+          "Use clean tools and avoid unnecessary wounding."
+        ]
+      },
+    "Orange__Huanglongbing(Citrus_greening)": {
+        "disease": "Orange Huanglongbing (Citrus greening)",
+        "description": "Huanglongbing (HLB), or Citrus Greening, is a destructive bacterial disease caused by *Candidatus Liberibacter* species and spread by the Asian citrus psyllid. Infected trees show yellow mottled leaves, misshapen bitter fruits, and may eventually die.",
+        "suggestions": [
+          "Remove infected trees promptly to reduce the source of inoculum.",
+          "Encourage planting of certified disease-free nursery stock.",
+          "Monitor closely for psyllid presence and damage symptoms.",
+          "Prune regularly to remove symptomatic branches and manage canopy.",
+          "Educate workers and nearby growers on identifying and reporting HLB."
+        ],
+        "treatments": [
+          "There is no cure; management focuses on vector control and removal of infected trees.",
+          "Apply insecticides such as imidacloprid to control psyllids.",
+          "Use mineral oils or horticultural oils as repellents to reduce psyllid feeding.",
+          "Support tree health through nutritional sprays and soil amendments.",
+          "Implement integrated pest management (IPM) strategies consistently."
+        ],
+        "precautions": [
+          "Inspect regularly for blotchy mottling and asymmetric leaf patterns.",
+          "Avoid moving plant material from quarantined zones.",
+          "Collaborate with local extension services for area-wide control efforts.",
+          "Use reflective mulches to deter psyllids in young orchards."
+        ]
+      },
+    "Peach__Bacterial_spot": {
+        "disease": "Peach Bacterial spot",
+        "description": "Bacterial spot, caused by *Xanthomonas arboricola pv. pruni*, affects peach leaves, fruits, and twigs. It leads to small, dark, sunken spots that can cause leaf drop, fruit blemishes, and yield reduction.",
+        "suggestions": [
+          "Plant resistant peach cultivars where available.",
+          "Avoid overhead irrigation to reduce leaf wetness duration.",
+          "Prune trees for better air movement and faster drying.",
+          "Control nitrogen fertilization to reduce succulent growth vulnerable to infection.",
+          "Remove and destroy affected fruits and leaves."
+        ],
+        "treatments": [
+          "Apply copper-based bactericides during dormant and pre-bloom stages.",
+          "Use antibiotics like oxytetracycline under professional guidance during early growth stages.",
+          "Repeat treatments during wet, warm conditions conducive to spread.",
+          "Supplement with zinc and manganese to support leaf resistance."
+        ],
+        "precautions": [
+          "Avoid working in orchards when trees are wet.",
+          "Sanitize pruning equipment after each use.",
+          "Eliminate volunteer or wild stone fruit trees nearby that can harbor the pathogen.",
+          "Schedule sprays based on predictive weather models for disease outbreaks."
+        ]
+      },
+    "Peach__healthy": {
+        "disease": "Peach healthy",
+        "description": "This peach tree exhibits no signs of disease or nutrient deficiency. Healthy leaves, strong branches, and unblemished fruits indicate optimal growing conditions and good orchard management.",
+        "suggestions": [
+          "Continue scheduled pruning to maintain open canopy and remove weak shoots.",
+          "Apply mulch to conserve soil moisture and suppress weed competition.",
+          "Fertilize with balanced nutrients in early spring and post-harvest.",
+          "Thin fruits after natural drop to prevent overloading and improve size.",
+          "Use dormant oil sprays to control overwintering pests."
+        ],
+        "treatments": [
+          "No treatment needed; maintain preventive practices.",
+          "Apply foliar micronutrients like boron or magnesium as needed based on leaf tests.",
+          "Use fungicides only when weather conditions suggest high disease risk.",
+          "Maintain irrigation schedules appropriate to tree age and soil type."
+        ],
+        "precautions": [
+          "Monitor regularly for signs of leaf curl, spots, or pest entry.",
+          "Protect young trees from frost using covers or windbreaks.",
+          "Avoid mechanical injury to bark and roots.",
+          "Ensure proper spacing between trees to reduce disease spread."
+        ]
+      },
+    "Pepper,_bell_healthy": {
+        "disease": "Pepper bell Bacterial spot",
+        "description": "Bacterial spot in bell peppers, caused by *Xanthomonas campestris pv. vesicatoria*, manifests as small, water-soaked lesions on leaves and fruits that turn dark and scabby. It thrives in warm, moist environments and can lead to defoliation and unmarketable fruits.",
+        "suggestions": [
+          "Use disease-free, certified seeds or transplants to prevent early infection.",
+          "Rotate with non-solanaceous crops for 2–3 years to reduce soil inoculum.",
+          "Space plants adequately to allow air flow and reduce humidity around foliage.",
+          "Avoid overhead irrigation that splashes and spreads the bacteria.",
+          "Handle plants carefully to avoid mechanical injury and reduce spread."
+        ],
+        "treatments": [
+          "Apply copper-based bactericides mixed with mancozeb for better efficacy.",
+          "Start foliar sprays early and repeat every 7–10 days during humid periods.",
+          "Use seed treatments with hot water or bleach to kill surface bacteria.",
+          "Introduce resistant or tolerant pepper cultivars when available.",
+          "Control insect vectors like thrips that may exacerbate spread."
+        ],
+        "precautions": [
+          "Do not work among wet plants to avoid transmitting bacteria.",
+          "Remove and destroy infected plant residues immediately after harvest.",
+          "Disinfect tools and equipment regularly during the growing season.",
+          "Implement strict sanitation protocols for workers and tools."
+        ]
+      },
+    "Pepper,bell_Bacterial_spot": {
+    "disease": "Pepper,bell Bacterial spot",
+    "description": "Bacterial spot is caused by the bacterium Xanthomonas campestris pv. vesicatoria. It leads to the formation of dark, water-soaked lesions on pepper leaves, which later turn brown and dry. The infection can also affect stems and fruits, leading to crop loss and reduced quality of produce. It is most active in warm, moist environments and can spread rapidly under these conditions.",
+    "suggestions": [
+        "Consult an expert or agronomist for an accurate diagnosis and to identify appropriate bacterial treatments.",
+        "Apply a broad-spectrum bactericide or fungicide at the first sign of symptoms to reduce the spread.",
+        "Ensure proper watering techniques, such as drip irrigation, to avoid wetting the foliage, which promotes bacterial growth.",
+        "Infected plants should be isolated to prevent cross-contamination with healthy plants.",
+        "Implement crop rotation to minimize the build-up of the pathogen in the soil over time.",
+        "Utilize resistant pepper varieties to reduce the risk of infection in future seasons.",
+        "Improve soil health by adding organic matter to increase plant resilience and reduce the chance of bacterial infections."
+    ],
+    "precautions": [
+        "Avoid cross-contamination by regularly sanitizing gardening tools, clothing, and hands when working with infected plants.",
+        "Inspect plants daily, particularly after wet or humid weather, to catch early signs of infection.",
+        "Ensure that plants are spaced sufficiently apart to promote good airflow and prevent humidity buildup around leaves."
+    ]
+},
+    "Potato__Early_blight": {
+    "disease": "Potato Early blight",
+    "description": "Early blight, caused by the fungus Alternaria solani, presents as dark, circular spots with concentric rings on older potato leaves. The fungus also infects stems and tubers, causing premature defoliation and affecting yield. It thrives in humid, warm conditions and can quickly defoliate plants, making them more susceptible to other diseases.",
+    "suggestions": [
+        "Consult an expert or agronomist for guidance on appropriate fungicides to treat early blight effectively.",
+        "Apply fungicides during early stages of the disease, as a preventive measure, especially when weather conditions are favorable for the fungus.",
+        "Ensure soil is well-drained and avoid over-watering, as wet conditions favor fungal growth.",
+        "Remove and destroy infected leaves, stems, and tubers promptly to reduce sources of infection.",
+        "Consider using early blight-resistant potato varieties for future plantings.",
+        "Mulch around the base of plants to help retain moisture and prevent fungal spore dispersal."
+    ],
+    "precautions": [
+        "Inspect plants regularly for early symptoms, such as yellowing of lower leaves and dark spots with concentric rings.",
+        "Avoid working with wet plants to reduce fungal spore spread.",
+        "Practice crop rotation and remove potato debris from previous seasons to minimize soilborne pathogens."
+    ]
+},
+    "Potato__Late_blight": {
+    "disease": "Potato Late blight",
+    "description": "Late blight, caused by Phytophthora infestans, is one of the most destructive diseases in potatoes. It causes dark lesions on leaves, stems, and tubers, leading to rapid decay, wilting, and collapse of the plant. This disease thrives under cool, moist conditions and can devastate crops in a matter of days, making timely intervention critical.",
+    "suggestions": [
+        "Consult an expert or agronomist to determine the best fungicide regimen for late blight control.",
+        "Apply fungicides as part of a preventive management program, especially during cool, damp weather.",
+        "Remove and destroy all infected plant parts immediately to reduce the source of spores.",
+        "Ensure proper plant spacing to improve air circulation and reduce humidity around foliage.",
+        "Use resistant varieties of potatoes to minimize the risk of infection in the future.",
+        "Consider using organic or bio-based fungicides as part of an integrated disease management approach."
+    ],
+    "precautions": [
+        "Monitor weather forecasts for conditions favorable for late blight, such as cool, wet periods.",
+        "Avoid overhead irrigation, which can keep the foliage wet and create favorable conditions for blight.",
+        "Keep potato fields free of plant debris, as it can harbor pathogens over the winter."
+    ]
+},
+"Potato_healthy": {
+    "disease": "Potato healthy",
+    "description": "Healthy potato plants are robust with strong, green foliage, and healthy tubers. They exhibit vigorous growth, proper flowering, and show no signs of disease or pest damage. Regular care and good practices ensure high yields and the production of quality potatoes.",
+    "suggestions": [
+        "Ensure the plants receive adequate sunlight for optimal photosynthesis and tuber development.",
+        "Water consistently and adequately, avoiding both drought stress and waterlogging, which can damage roots.",
+        "Use organic fertilizers to provide essential nutrients, particularly nitrogen, for healthy plant growth.",
+        "Monitor for pests like aphids, cutworms, and flea beetles, which can harm young plants.",
+        "Ensure proper irrigation to avoid water stress during tuber development."
+    ],
+    "precautions": [
+        "Rotate crops to maintain soil fertility and reduce the buildup of soilborne diseases.",
+        "Space plants properly to ensure good airflow and reduce the risk of fungal diseases.",
+        "Add organic matter and compost to improve soil structure and drainage."
+    ]
+},
+   "Tomato__healthy": {
+    "disease": "Tomato healthy",
+    "description": "The healthy tomato plant is characterized by vibrant green leaves, strong stems, and an overall robust growth. It is free from disease and pests, showing no signs of wilting, yellowing, or abnormal spots. Healthy tomatoes thrive in optimal soil and environmental conditions, providing a rich yield of high-quality fruit.",
+    "suggestions": [
+        "Consult an expert or agronomist for tailored advice on plant health.",
+        "Ensure the plant receives sufficient sunlight (6-8 hours a day) for optimal growth.",
+        "Water regularly but avoid overwatering; the soil should be well-drained.",
+        "Fertilize the plant with a balanced fertilizer, providing essential nutrients like nitrogen, phosphorus, and potassium.",
+        "Prune the plant to improve airflow and reduce disease risk.",
+        "Inspect for pests or disease signs periodically, even in healthy plants, to prevent issues from developing.",
+        "Maintain a proper irrigation system, ensuring that the plant does not experience water stress."
+    ],
+    "precautions": [
+        "Avoid cross-contamination between plants by sanitizing tools and equipment regularly.",
+        "Monitor for early signs of any pests or diseases, such as discoloration or unusual growth patterns.",
+        "Maintain optimal environmental conditions: proper temperature, humidity, and air circulation.",
+        "Ensure good soil health by practicing crop rotation and adding organic matter to improve soil structure.",
+        "Regularly check the plant for any physical damage, such as broken stems or leaves, which could make it susceptible to infections.",
+        "Avoid overcrowding plants to ensure proper air circulation, which reduces the likelihood of fungal diseases."
+    ]
+}
+}

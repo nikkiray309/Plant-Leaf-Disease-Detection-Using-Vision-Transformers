@@ -1,0 +1,534 @@
+{
+    "Apple___Apple_scab": {
+        "disease": "Apple - Apple scab",
+        "description": "Description for Apple___Apple_scab",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Apple___Black_rot": {
+        "disease": "Apple - Black rot",
+        "description": "Description for Apple___Black_rot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Apple___Cedar_apple_rust": {
+        "disease": "Apple - Cedar apple rust",
+        "description": "Description for Apple___Cedar_apple_rust",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Apple___healthy": {
+        "disease": "Apple - healthy",
+        "description": "Description for Apple___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Blueberry___healthy": {
+        "disease": "Blueberry - healthy",
+        "description": "Description for Blueberry___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "disease": "Cherry (including sour) - Powdery mildew",
+        "description": "Description for Cherry_(including_sour)___Powdery_mildew",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "disease": "Cherry (including sour) - healthy",
+        "description": "Description for Cherry_(including_sour)___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "disease": "Corn (maize) - Cercospora leaf spot Gray leaf spot",
+        "description": "Description for Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Corn_(maize)___Common_rust_": {
+        "disease": "Corn (maize) - Common rust ",
+        "description": "Description for Corn_(maize)___Common_rust_",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "disease": "Corn (maize) - Northern Leaf Blight",
+        "description": "Description for Corn_(maize)___Northern_Leaf_Blight",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Corn_(maize)___healthy": {
+        "disease": "Corn (maize) - healthy",
+        "description": "Description for Corn_(maize)___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Grape___Black_rot": {
+        "disease": "Grape - Black rot",
+        "description": "Description for Grape___Black_rot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "disease": "Grape - Esca (Black Measles)",
+        "description": "Description for Grape___Esca_(Black_Measles)",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "disease": "Grape - Leaf blight (Isariopsis Leaf Spot)",
+        "description": "Description for Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Grape___healthy": {
+        "disease": "Grape - healthy",
+        "description": "Description for Grape___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "disease": "Orange - Haunglongbing (Citrus greening)",
+        "description": "Description for Orange___Haunglongbing_(Citrus_greening)",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Peach___Bacterial_spot": {
+        "disease": "Peach - Bacterial spot",
+        "description": "Description for Peach___Bacterial_spot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Peach___healthy": {
+        "disease": "Peach - healthy",
+        "description": "Description for Peach___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "disease": "Pepper, bell - Bacterial spot",
+        "description": "Description for Pepper,_bell___Bacterial_spot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Pepper,_bell___healthy": {
+        "disease": "Pepper, bell - healthy",
+        "description": "Description for Pepper,_bell___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Potato___Early_blight": {
+        "disease": "Potato - Early blight",
+        "description": "Description for Potato___Early_blight",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Potato___Late_blight": {
+        "disease": "Potato - Late blight",
+        "description": "Description for Potato___Late_blight",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Potato___healthy": {
+        "disease": "Potato - healthy",
+        "description": "Description for Potato___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Raspberry___healthy": {
+        "disease": "Raspberry - healthy",
+        "description": "Description for Raspberry___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Soybean___healthy": {
+        "disease": "Soybean - healthy",
+        "description": "Description for Soybean___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Squash___Powdery_mildew": {
+        "disease": "Squash - Powdery mildew",
+        "description": "Description for Squash___Powdery_mildew",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Strawberry___Leaf_scorch": {
+        "disease": "Strawberry - Leaf scorch",
+        "description": "Description for Strawberry___Leaf_scorch",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Strawberry___healthy": {
+        "disease": "Strawberry - healthy",
+        "description": "Description for Strawberry___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Bacterial_spot": {
+        "disease": "Tomato - Bacterial spot",
+        "description": "Description for Tomato___Bacterial_spot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Early_blight": {
+        "disease": "Tomato - Early blight",
+        "description": "Description for Tomato___Early_blight",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Late_blight": {
+        "disease": "Tomato - Late blight",
+        "description": "Description for Tomato___Late_blight",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Leaf_Mold": {
+        "disease": "Tomato - Leaf Mold",
+        "description": "Description for Tomato___Leaf_Mold",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "disease": "Tomato - Septoria leaf spot",
+        "description": "Description for Tomato___Septoria_leaf_spot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "disease": "Tomato - Spider mites Two-spotted spider mite",
+        "description": "Description for Tomato___Spider_mites Two-spotted_spider_mite",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Target_Spot": {
+        "disease": "Tomato - Target Spot",
+        "description": "Description for Tomato___Target_Spot",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "disease": "Tomato - Tomato Yellow Leaf Curl Virus",
+        "description": "Description for Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "disease": "Tomato - Tomato mosaic virus",
+        "description": "Description for Tomato___Tomato_mosaic_virus",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    },
+    "Tomato___healthy": {
+        "disease": "Tomato - healthy",
+        "description": "Description for Tomato___healthy",
+        "suggestions": [
+            "Use appropriate fungicides or pesticides.",
+            "Ensure good air circulation and avoid overhead watering.",
+            "Use disease-resistant plant varieties when available."
+        ],
+        "precautions": [
+            "Regularly inspect leaves and remove infected ones.",
+            "Disinfect tools after use.",
+            "Maintain proper spacing between plants."
+        ]
+    }
+}
