@@ -41,10 +41,27 @@ Here’s a breakdown of the key files:├── app.py
 
 ## 🧰 Installation and Setup
 
-1. **Clone the repository**
-
-   ```bash
+### 1. Clone the repository
+```sh
    git clone https://github.com/nikkiray309/Plant-Leaf-Disease-Detection-Using-Vision-Transformers.git
    cd Plant-Leaf-Disease-Detection-Using-Vision-Transformers
+```
+### 2. Set up a Python environment
+It’s recommended to use a virtual environment (venv, conda, etc.)
 
+```sh
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
+### 3. Install Dependencies
+Install the required Python libraries.
+```sh
+     pip install torch transformers scikit-learn numpy pandas
+```
+
+### 4. Run the inference app
+```sh
+     python app.py
+```
+Then point your browser (or API client) to the appropriate endpoint to upload leaf images and get disease predictions.
