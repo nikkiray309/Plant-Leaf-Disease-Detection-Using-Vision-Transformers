@@ -1,7 +1,5 @@
 # Plant-Leaf-Disease-Detection-Using-Vision-Transformers
 
-# Plant Leaf Disease Detection Using Vision Transformers
-
 ## 📘 Project Overview
 
 This project implements a plant leaf disease detection system leveraging **Vision Transformers (ViT)**. The goal is to classify and identify diseases on plant leaves from images, enabling early diagnosis and more effective disease management in agriculture.
